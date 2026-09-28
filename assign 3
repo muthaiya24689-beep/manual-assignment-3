@@ -1,0 +1,153 @@
+Test Levels and Test Process in Software Testing
+
+Software testing is an important part of software development. It helps identify defects, verify that software meets requirements, and ensure that the application works as expected.
+
+There are two important concepts in software testing:
+
+Test Levels – the different stages at which software is tested.
+
+Test Process – the sequence of activities followed to perform testing.
+
+1. Test Levels
+
+Test levels describe the stages of testing performed during software development. There are four main test levels.
+
+1. Unit Testing
+
+Definition: Testing individual components or small units of a program.
+
+Performed by: Usually developers.
+
+Purpose: To verify that each individual function, method, or module works correctly.
+
+Example: Testing whether a login function correctly checks a username and password.
+
+2. Integration Testing
+
+Definition: Testing how two or more components work together.
+
+Performed by: Developers and/or testers.
+
+Purpose: To identify defects in the communication and interaction between modules.
+
+Example: Checking whether the login page correctly communicates with the database to retrieve user information.
+
+3. System Testing
+
+Definition: Testing the complete, integrated software application.
+
+Performed by: Usually the testing or QA team.
+
+Purpose: To verify that the entire system meets its specified requirements.
+
+Example: Testing the complete online shopping application, including login, product search, cart, payment, and order confirmation.
+
+4. Acceptance Testing
+
+Definition: Testing whether the software meets business needs and is ready for acceptance.
+
+Performed by: Customers, end users, business representatives, or other authorized stakeholders.
+
+Purpose: To confirm that the software is suitable for its intended use.
+
+Example: Customers test an online shopping application to confirm that they can place orders and receive order confirmations as required.
+
+Summary of Test Levels
+
+Test level
+
+	
+
+What is tested?
+
+	
+
+Main purpose
+
+
+
+
+Unit testing
+
+	
+
+Individual components
+
+	
+
+Check component functionality
+
+
+
+
+Integration testing
+
+	
+
+Interactions between components
+
+	
+
+Check communication
+
+
+
+
+System testing
+
+	
+
+Complete application
+
+	
+
+Check system requirements
+
+
+
+
+Acceptance testing
+
+	
+
+Business needs and user requirements
+
+	
+
+Confirm readiness for acceptance
+
+Easy way to remember: Unit → Integration → System → Acceptance.
+
+2. Test Process
+
+The test process is a systematic sequence of activities used to plan, prepare, execute, and complete software testing.
+
+A commonly used testing process has seven activities.
+
+1 Test Planning
+
+Define objectives, scope, resources and schedule.
+
+2 Test Monitoring and Control
+
+Track progress and take corrective action.
+
+3 Test Analysis
+
+Identify what needs to be tested.
+
+4 Test Design
+
+Decide how to test and define test cases.
+
+5n Test Implementation
+
+Prepare test data, test procedures and test environment.
+
+6 Test Execution
+
+Run tests, compare actual and expected results, and report defects.
+
+7 Test Completion
+
+Summarize results, document lessons learned and close testing activities.
